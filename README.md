@@ -18,12 +18,6 @@ This *Tennis for Two* recreation was developed for [*A Whole Different Ball Game
 * 3x [small cable glands](https://www.adafruit.com/product/762)
 * 3x [large cable glands](https://www.adafruit.com/product/761)
 
-## Installation
-Coming soon...
-
-## Wiring
-Coming soon...
-
 ## Future Improvements
 * Evaluate higher resolution DACs. The current 8-bit DAC only creates a resolution of 256x256 "pixels". This would require more research, but the larger resolution of a higher bit DAC may simulate the original Tennis for Two with more fidelity.
 * Simulate the clicking sound of relay switches with sound files.
