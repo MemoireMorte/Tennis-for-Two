@@ -1,13 +1,6 @@
 # Tennis-for-Two
 This is a fork of the [Tennis-For-Two code posted here](https://github.com/jasoneppink/Tennis-for-Two)
 
-
-
-
-![Tennis for Two at Museum of the Moving Image](https://github.com/jasoneppink/Tennis-for-Two/blob/master/20180913_differentballgame_(c)_sachynmital_119.jpg)
-
-This *Tennis for Two* recreation was developed for [*A Whole Different Ball Game: Playing Through 60 Years of Sports Video Games*](http://movingimage.us/exhibitions/2018/09/14/detail/a-whole-different-ball-game-playing-through-60-years-of-sports-video-games/) at [Museum of the Moving Image](http://movingimage.us). It is adapted from [code and tutorial by Windell Oskay of Evil Mad Scientist Laboratories](https://www.evilmadscientist.com/2008/resurrecting-tennis-for-two-a-video-game-from-1958/) and benefited from [a tutorial about digital-to-analog converters by Amanda Ghassei](https://www.instructables.com/id/Stereo-Audio-with-Arduino/).
-
 ## Hardware Requirements
 * 1x [Dumont 304-A oscilloscope](https://www.radiomuseum.org/r/dumont_la_oscilloscope_304_a304.html)
 * 1x [Arduino Nano](https://store.arduino.cc/usa/arduino-nano)
@@ -22,9 +15,7 @@ This *Tennis for Two* recreation was developed for [*A Whole Different Ball Game
 * 3x [small cable glands](https://www.adafruit.com/product/762)
 * 3x [large cable glands](https://www.adafruit.com/product/761)
 
-## Future Improvements
-* Evaluate higher resolution DACs. The current 8-bit DAC only creates a resolution of 256x256 "pixels". This would require more research, but the larger resolution of a higher bit DAC may simulate the original Tennis for Two with more fidelity.
-* Simulate the clicking sound of relay switches with sound files.
+## Wiring
 
-## Thanks
-* [Trammell Hudson](https://trmm.net/) [@osresearch](https://github.com/osresearch)
+![Wiring](https://github.com/MemoireMorte/Tennis-for-Two/blob/master/tennis42.png)
+
